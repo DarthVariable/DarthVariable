@@ -114,14 +114,8 @@ A booking and payment platform for personalized readings, with a multi-step requ
 
 ---
 
-### 📊 GitHub Stats
-
-[![Noel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DarthVariable&layout=compact)](https://github.com/DarthVariable)
-
----
-
 ### 📫 Get in touch
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/noelfranceschi) &nbsp; [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nfranceschijr@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/noelfranceschi)
 
-**LinkedIn:** [linkedin.com/in/noelfranceschi](https://linkedin.com/in/noelfranceschi) &nbsp;·&nbsp; **Email:** nfranceschijr@gmail.com
+**LinkedIn:** [linkedin.com/in/noelfranceschi](https://linkedin.com/in/noelfranceschi)

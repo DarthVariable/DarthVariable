@@ -78,7 +78,7 @@ Proprietary smartwatch hardware with a custom OS for 24/7 electronic monitoring 
 
 `Ionic` · `Angular` · `Capacitor`
 
-Cross-platform mobile app currently in live in the [App Store](https://apps.apple.com/us/app/amind/id6759204607) and still in beta Android testing. View more info [HERE](https://apps.apple.com/us/app/amind/id6759204607) .
+Cross-platform mobile app currently in live in the [App Store](https://apps.apple.com/us/app/amind/id6759204607) and still in beta Android testing. View more info [HERE](https://amindapp.com/) .
 
 ### [Cursos — Marianila Disruptiva](https://cursos.marianiladisruptiva.com/tabs/explore) — Online course platform
 

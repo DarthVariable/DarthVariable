@@ -74,11 +74,11 @@ Proprietary smartwatch hardware with a custom OS for 24/7 electronic monitoring 
 
 > Built through Franceschi Enterprises.
 
-### aMind — Mobile app
+### [aMind](https://amindapp.com/) — Mobile app
 
 `Ionic` · `Angular` · `Capacitor`
 
-Cross-platform mobile app currently in live in the [App Store](https://apps.apple.com/us/app/amind/id6759204607) and still in beta Android testing. View more info [HERE](https://amindapp.com/) .
+Cross-platform mobile app currently in live in the [App Store](https://apps.apple.com/us/app/amind/id6759204607) and still in beta Android testing.
 
 ### [Cursos — Marianila Disruptiva](https://cursos.marianiladisruptiva.com/tabs/explore) — Online course platform
 

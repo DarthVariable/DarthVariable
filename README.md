@@ -74,11 +74,25 @@ Proprietary smartwatch hardware with a custom OS for 24/7 electronic monitoring 
 
 > Built through Franceschi Enterprises.
 
-### [aMind](https://amindapp.com/) — Mobile app
+### [RepayCompass](https://repaycompass.com/) — Federal student loan repayment comparison tool
+
+`Astro` · `React` · `Client-side`
+
+A privacy-first web app that compares every US federal student loan repayment plan you're eligible for — monthly payment, lifetime cost, and the fine print — side by side. All math runs in the browser, so nothing a user types is ever stored or sent to a server.
+
+<img src="./assets/repaycompass_web.png" alt="RepayCompass" width="700" />
+
+### [aMind](https://amindapp.com/) — Guided journaling & reflection app
 
 `Ionic` · `Angular` · `Capacitor`
 
-Cross-platform mobile app currently in live in both App store and google play.
+A privacy-first mobile app that walks users through a thought with a few guided prompts — capture what's on your mind, question it, and come away seeing it more clearly. Live on both the App Store and Google Play.
+
+- Guided reflection flow with a private, on-device history — no account required
+- Insights & Patterns view surfaces recurring thoughts and themes over time (Premium)
+- Biometric lock, offline support, dark mode, and full multilingual (EN/ES)
+
+<img src="./assets/amind_app_web.png" alt="aMind App" width="700" />
 
 ### [Cursos — Marianila Disruptiva](https://cursos.marianiladisruptiva.com/tabs/explore) — Online course platform
 
